@@ -17,10 +17,15 @@ Programming Languages: Python (Boto3), HTML, CSS, JavaScript
 
 ## Project Highlights
 ● Automated the backend and frontend infrastructure creation using Terraform to streamline AWS resource configuration.
+
 ● Styled HTML resume using CSS with a Bootstrap framework for a polished appearance.
+
 ● Deployed HTML resume as an Amazon S3 static website with HTTPS security via Amazon CloudFront.
+
 ● Integrated a visitor counter using JavaScript, storing data in Amazon DynamoDB.
+
 ● Built an API with AWS API Gateway and Lambda services to interact with DynamoDB.
+
 ● Utilized Python Boto3 and Lambda for DynamoDB automation and integration with API Gateway.
 
 ## Future Plans
