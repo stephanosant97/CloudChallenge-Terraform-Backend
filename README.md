@@ -1,11 +1,11 @@
 # AWS Cloud Resume Project
 
-Website: https://www.stephanosant.com
+Website: https://www.stephanosant.com/cloudresume
 
 ![image](https://github.com/stephanosant97/CloudChallenge-Terraform-Backend/assets/135358869/2e719952-a86c-43c6-81f0-26b72298489d)
 
 
-This repository is my backend AWS infrastructure converted to IaC using Terraform for the Cloud Resume Challenge, inspired by Forrest Brazeal. I've completed this challenge using AWS cloud services. You can find the detailed steps for the challenge on Forrest's website. Additionally, I'll be sharing my experience and insights in a blog post, which I'll link here once it's ready.
+This repository is my front-end AWS infrastructure implemented with CI/CD using Github Actions for the Cloud Resume Challenge, inspired by Forrest Brazeal. I've completed this challenge using AWS cloud services. You can find the detailed steps for the challenge on Forrest's website. Additionally, I'll be sharing my experience and insights in a blog post, which I'll link here once it's ready.
 
 ## Technologies Utilized
 
@@ -31,5 +31,8 @@ Programming Languages: Python (Boto3), HTML, CSS, JavaScript
 ## Future Plans
 
 Stay tuned for my upcoming blog post where I'll delve deeper into my Cloud Resume Challenge journey and share additional insights!
+EDIT 3/21/2024 Blog Link : https://www.linkedin.com/pulse/my-experience-converting-cloud-resume-challenge-iac-using-santos-jgdye/
 
 For official instructions and guidelines for the Cloud Resume Challenge, visit the Cloud Resume Challenge Official Website.
+
+EDIT: As of 3/20/2024 I have redesigned my website on Sveltekit.
