@@ -38,3 +38,8 @@ EDIT 3/21/2024 Blog Link : https://www.linkedin.com/pulse/my-experience-converti
 For official instructions and guidelines for the Cloud Resume Challenge, visit the Cloud Resume Challenge Official Website.
 
 EDIT: As of 3/20/2024 I have redesigned my website on Sveltekit.
+
+### Infrastructure model
+![Infrastructure main model](.infragenie/infrastructure_main_model.svg)
+
+---
